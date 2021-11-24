@@ -7,7 +7,7 @@ I'm an <strong>open-source</strong> lover and I really enjoy working in teams.
 I am currently a Software Engineer at <a href="https://jagaad.it">Jagaad</a>.
 </p>
 
-<strong>My Strong Skills:</strong> Java, JavaScript, Flutter, Dart, Kotlin, Python<br/>
+<strong>My Strong Skills:</strong> Java, JavaScript, Flutter, Dart, Kotlin, Python, PHP<br/>
 <strong>Contact me:</strong> giovanni.damore85@gmail.com
 
 <div>
