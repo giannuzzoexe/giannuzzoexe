@@ -17,7 +17,7 @@
                 100%   { transform: translate(0, -0px); }   
             }
             </style>
-            <image x="0" y="0" class="floating" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbonjournature.fr%2Fwp-content%2Fuploads%2Fimage-de-paysage-colore.jpg&f=1&nofb=1"/>
+            <img class="floating" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbonjournature.fr%2Fwp-content%2Fuploads%2Fimage-de-paysage-colore.jpg&f=1&nofb=1"/>
         </div>
     </foreignObject>
 </svg>
