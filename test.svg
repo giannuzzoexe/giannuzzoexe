@@ -2,21 +2,22 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-            h1 {
-                color: red;
-                animation: mymove 2s infinite;
+            .floating { 
+                animation-name: floating;
+                animation-duration: 3s;
+                animation-iteration-count: infinite;
+                animation-timing-function: ease-in-out;
+                margin-left: 30px;
+                margin-top: 5px;
             }
 
-            @keyframes mymove {
-                from {
-                    color: red;
-                }
-                to {
-                    color: yellow;
-                }
+            @keyframes floating {
+                0% { transform: translate(0,  0px); }
+                50%  { transform: translate(0, 15px); }
+                100%   { transform: translate(0, -0px); }   
             }
             </style>
-            <h1>HELLO WORLD!</h1>
+            <img class="floating" src="https://raw.githubusercontent.com/giannuzzoexe/giannuzzoexe/main/img_gh_giannuzzoexe.png">
         </div>
     </foreignObject>
 </svg>
