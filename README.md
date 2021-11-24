@@ -12,7 +12,7 @@ I am currently a Software Engineer at <a href="https://jagaad.it">Jagaad</a>.
 
 <div>
   <a href="https://github.com/giannuzzoexe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giannuzzoexe&show_icons=true&count_private=true&theme=jolly"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giannuzzoexe&langs_count=8&theme=jolly"/>
+  <img height="150em" width="auto" src="https://github-readme-stats.vercel.app/api?username=giannuzzoexe&show_icons=true&count_private=true&theme=jolly"/>
+  <img height="150em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giannuzzoexe&langs_count=8&theme=jolly"/>
   </a>
 </div>
